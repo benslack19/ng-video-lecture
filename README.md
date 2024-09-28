@@ -1,4 +1,4 @@
-This is a forked repo of Karpathy's repo. I'm using it as a vehicle for better understanding transformers.
+This is a forked repo of Karpathy's repo. I'm using it as a vehicle for better understanding transformers. I'm following the YouTube video [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY).
 
 
 # nanogpt-lecture
