@@ -1,3 +1,5 @@
+This is a forked repo of Karpathy's repo. I'm using it as a vehicle for better understanding transformers.
+
 
 # nanogpt-lecture
 
