@@ -1,9 +1,6 @@
 # Building a GPT from scratch
 
-This is a forked repo of Andrej Karpathy's repo. I'm using it as a vehicle for better understanding transformers. I'm following the YouTube video [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY).
-
-I'm primarily using `gpt_learning.ipynb` to run code. While Karpathy used Shakespeare, I thought it'd be fun to do something different and so I used Radiohead songs from [MeetShah9](https://raw.githubusercontent.com/MeetShah9/Collection-and-exploration-of-radiohead-lyrics/refs/heads/main/data_collection/radiohead_tracks.csv).
-
+This is a forked repo of Andrej Karpathy's repo. I'm using it as a vehicle for better understanding transformers. I'm following the YouTube video [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY). I'm primarily using `gpt_learning.ipynb` to run code.
 # Setup
 Local environment: `torch_env`
 
